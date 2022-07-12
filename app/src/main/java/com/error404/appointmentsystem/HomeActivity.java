@@ -183,4 +183,3 @@ public class HomeActivity extends AppCompatActivity {
         alert.show();
 
     }
-}
