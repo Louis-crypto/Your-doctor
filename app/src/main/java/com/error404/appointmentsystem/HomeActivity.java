@@ -127,7 +127,7 @@ public class HomeActivity extends AppCompatActivity {
         }
     }
 
-    public void AllowAccount(final String ID, final String ParentDB){
+    public void AllowAccount(final String ID, final String ParentDB) {
 
         final DatabaseReference RootRef;
         RootRef = FirebaseDatabase.getInstance().getReference();

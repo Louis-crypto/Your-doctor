@@ -1,16 +1,16 @@
 <resources>
-    <string name="app_name">Appointment System</string>
+    <string name="app_name">Quick Doc</string>
     <string name="dcSpec">Speciality : </string>
     <string name="spec_1">Associate Consultant, Cardiology</string>
-    <string name="dc_degree">MBBS, D Card (London),Msc Cardiology (UK)</string>
-    <string name="dc_phn_1">814 4400 8142431</string>
-    <string name="dc_email_1">info@squarehospital.com</string>
+    <string name="dc_degree">MBBS, D Card (Nairobi),Msc Cardiology (KE)</string>
+    <string name="dc_phn_1">0102030405</string>
+    <string name="dc_email_1">info@daktariwako.com</string>
 
     <string-array name="department_names_array">
         <item>Emergency</item>
         <item>Medicine</item>
         <item>Neuromedicine</item>
-        <item>Physical Med</item>
+        <item>Physical Medicine</item>
         <item>Surgery</item>
         <item>Neurosugery</item>
         <item>Paediatric Surg</item>
@@ -27,7 +27,6 @@
         <item>Anesthesiology</item>
         <item>Traumatologyv</item>
         <item>Urology</item>
-        <item>ENT</item>
         <item>Ophthalmology</item>
         <item>Gynae</item>
         <item>Transfusion Med</item>
@@ -35,19 +34,18 @@
         <item>Hepatology</item>
         <item>Neurology</item>
         <item>Dentistry</item>
-        <item>Oral Surg</item>
+        <item>Oral Surgery</item>
     </string-array>
 
     <string-array name="emergency_list_array">
-        <item>Help Desk: 01711000010</item>
-        <item>Medicine: 01711000011</item>
-        <item>Emergency: 01711000012</item>
-        <item>Ambulance 1: 01711000013</item>
-        <item>Ambulance 2: 01711000014</item>
-        <item>Ambulance 3: 01711000015</item>
-        <item>ICU services: 01711000016</item>
-        <item>Critical Care: 01711000017</item>
-        <item>Administration: 01711000018</item>
+        <item>Help Desk: 0102030405</item>
+        <item>Medicine: 0102030405</item>
+        <item>Emergency: 0102030405</item>
+        <item>Ambulance 1: 0102030405</item>
+        <item>Ambulance 2: 0102030405</item>
+        <item>ICU services: 0102030405</item>
+        <item>Critical Care: 0102030405</item>
+        <item>Administration: 0102030405</item>
     </string-array>
 
     <string-array name="tips_array">
@@ -64,41 +62,41 @@
             We need at least 90 mg of vitamin C every day. The best way to get this is to serve at least five fresh fruits and vegetables a day. Try eating oranges and guavas.
         </item>
         <item>
-            &lt;b&gt;ভিটামিন এ নিন: &lt;/b&gt;&lt;br&gt;&lt;br&gt;
-            এ ভিটামিন এবং বিটা ক্যারোটিন রোগের বিরুদ্ধে প্রতিরোধ ক্ষমতা বাড়াতে সহায়তা করে। এটি হামের মতো রোগ নিরাময়ের ক্ষেত্রে সহায়তা করে এবং WHO দ্বারা প্রস্তাবিত।
-            ভিটামিন এ এর   প্রাকৃতিক উত্স হলো কিডনি, যকৃত, দুগ্ধজাত পণ্য, সবুজ এবং হলুদ শাকসব্জী, পেপে, আম, মরিচ, লাল সোরেল এবং লাল পাম তেল।
+            &lt;b&gt;Take vitamin A: &lt;/b&gt;&lt;br&gt;&lt;br&gt;
+            Vitamin A and beta carotene help to increase immunity against the disease. It helps in curing diseases like measles and is recommended by WHO.
+            Natural sources of vitamin A are kidney, liver, dairy products, green and yellow vegetables, papaya, mango, pepper, red sorrel and red palm oil.
         </item>
         <item>
-            &lt;b&gt;বিশুদ্ধ পানি পান করুন: &lt;/b&gt;&lt;br&gt;&lt;br&gt;
-            অনুশীলন করার সময় সফট ড্রিঙ্কস বা এনার্জি ড্রিংকস পান করবেন না। আপনার কাজের  সময়  পর্যাপ্ত পরিমাণ জল পান করে সঠিকভাবে হাইড্রেটেড থাকুন।
+            &lt;b&gt;Drink pure water:&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+            Do not drink soft drinks or energy drinks while exercising. Stay properly hydrated by drinking enough water during your work.
         </item>
     </string-array>
 
     <string-array name="faqs_array">
         <item>
-            &lt;b&gt; ১. এপয়েন্টমেন্ট ট্রেক করা যাবে? &lt;/b&gt;&lt;br&gt;&lt;br&gt;
+            &lt;b&gt; 1. Can appointments be tracked? &lt;/b&gt;&lt;br&gt;&lt;br&gt;
 
-            &lt;b&gt;উত্তরঃ &lt;/b&gt; হা, আপনি আপনার এপয়েন্টমেন্ট ট্রেক করতে পারবেন। ট্রেক এপয়েন্টমেন্ট ট্যাব এ যেয়ে যে ডাক্তার এর আন্ডারে এপয়েন্টমেন্ট নিয়েছেন সেই ডক্টর সিলেক্ট করে আপনার প্রদত্ত তারিখ এবং সময় নির্বাচন করলেই আপনি আপনার সিরিয়াল দেখতে পারবেন।
+            &lt;b&gt;Answer: &lt;/b&gt; Yes, you can track your appointments. You can watch your serial by going to the Track Appointments tab and selecting the doctor who made the appointment under you and selecting the given date and time.
         </item>
         <item>
-            &lt;b&gt; ২. এই এপ ব্যবহার করতে কি কোন টাকা প্রয়োজন হবে? &lt;/b&gt;&lt;br&gt;&lt;br&gt;
+            &lt;b&gt; 2. Will I need any money to use this app? &lt;/b&gt;&lt;br&gt;&lt;br&gt;
 
-            &lt;b&gt;উত্তরঃ &lt;/b&gt; না, এই এপ সম্পূর্ন ফ্রি তে ব্যবহার করা যাবে।
+            &lt;b&gt;Answer: &lt;/b&gt; No, this app can be used for free.
         </item>
         <item>
-            &lt;b&gt; ৩. এখানে কি সব হাসপাতালের ডাক্তারের এপয়েন্টমেন্ট পাওয়া যাবে? &lt;/b&gt;&lt;br&gt;&lt;br&gt;
+            &lt;b&gt; 3. Can all hospital doctors appointments be available here? &lt;/b&gt;&lt;br&gt;&lt;br&gt;
 
-            &lt;b&gt;উত্তরঃ &lt;/b&gt; না, এপটি শুধু একটিমাত্র হাসপাতালকে কেন্দ্র করে বানানো, তাই এখানে শুধু এই হাসপাতালের ডাক্তারের এপয়েন্টমেন্ট নেওয়া যাবে।
+            &lt;b&gt;Answer: &lt;/b&gt; No, the app is centered on only one hospital, so only doctor appointments can be made here.
         </item>
         <item>
-            &lt;b&gt; ৪. লগ-ইন ছাড়া কি এপয়েন্টমেন্ট দেখা যাবে? &lt;/b&gt;&lt;br&gt;&lt;br&gt;
+            &lt;b&gt; 4. Can I see an appointment without login? &lt;/b&gt;&lt;br&gt;&lt;br&gt;
 
-            &lt;b&gt;উত্তরঃ &lt;/b&gt; জ্বি হ্যা দেখা যাবে। সবার সুবিধার কথা মাথায় রেখে এপটি লগ-ইন ফ্রি রাখা হয়েছে।
+            &lt;b&gt;Answer: &lt;/b&gt; Yes, it can be seen. Keeping in mind the convenience of everyone, the app has been kept free of login.
         </item>
         <item>
             &lt;b&gt; 5. Can feedback be given in the app? &lt;/b&gt;&lt;br&gt;&lt;br&gt;
 
-            &lt;b&gt;Answers &lt;/b&gt; Answers can be given and you can also see the feedback given to other doctors.।
+            &lt;b&gt;Answers &lt;/b&gt; Answers can be given and you can also see the feedback given to other doctors.
         </item>
     </string-array>
 
